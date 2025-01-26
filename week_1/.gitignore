@@ -1,0 +1,9 @@
+# ignoring postgresql data
+ny_taxi_postgres_data/
+
+#ignore pgadmin4 data
+pgadmin4/
+
+anaconda_projects/
+
+.ipynb_checkoints/
